@@ -29,7 +29,7 @@
 - Reinforcement Learning & Deep Learning basics
 
 ### 📫 Connect with Me
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: linkedin.com/in/syed-hamza-ali-54a5043a2
 - Email:alisyedhamzaimran@gmail.com
 
 ---
